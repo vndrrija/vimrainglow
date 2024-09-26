@@ -32,12 +32,12 @@ hi CursorLine     guifg=NONE guibg=#171d22 gui=NONE
 hi CursorLineNr   guifg=#4f6174 guibg=#030304 gui=NONE
 hi CursorColumn   guifg=NONE guibg=#030304 gui=NONE
 hi ColorColumn    guifg=NONE guibg=#000000 gui=NONE
-hi LineNr         guifg=#262e37 guibg=#07080a gui=NONE
+hi LineNr         guifg=#262e37 guibg=#0c1113 gui=NONE
 hi VertSplit      guifg=#262e37 guibg=#262e37 gui=NONE
 hi MatchParen     guifg=#019d76 guibg=NONE gui=underline
-hi StatusLine     guifg=#ffffff guibg=#07080a gui=bold
-hi StatusLineNC   guifg=#ffffff guibg=#07080a gui=NONE
-hi Pmenu          guifg=#ffffff guibg=#07080a gui=NONE
+hi StatusLine     guifg=#ffffff guibg=#0c1113 gui=bold
+hi StatusLineNC   guifg=#ffffff guibg=#0c1113 gui=NONE
+hi Pmenu          guifg=#ffffff guibg=#0c1113 gui=NONE
 hi PmenuSel       guifg=NONE guibg=#017c9d gui=NONE
 hi IncSearch      guifg=#ffffff guibg=#15b8ae gui=NONE
 hi Search         guifg=NONE guibg=NONE gui=underline
